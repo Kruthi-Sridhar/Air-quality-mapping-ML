@@ -1,1 +1,1 @@
-# Air-quality-mapping-ML
+This project enhances air quality data resolution using AI-driven super-resolution with Generative Adversarial Networks (GANs). Low-resolution pollutant grids are upscaled to high-resolution representations via a generator-discriminator model. Comprehensive visualizations, including heatmaps and scatter plots, provide insights into pollutant trends. Built with Python, TensorFlow, and data visualization libraries, it supports detailed environmental analysis.
